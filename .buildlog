@@ -1,0 +1,700 @@
+---
+build.dart --machine --full
+Unable to open file: C:/Work/dart/projects/streams_client/streams_client/packages/web_ui/component_build.dart'file:///C:/Work/dart/projects/streams_client/streams_client/build.dart': Error: line 2 pos 1: library handler failed
+import 'package:web_ui/component_build.dart';
+^
+build.dart finished [57 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+Total time                                                   --  14 ms
+build.dart finished [643 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 332 ms
+Total time                                                   -- 347 ms
+build.dart finished [916 ms]
+
+---
+build.dart --machine --changed=web\out\streams_client.css --changed=web\out\streams_client.dart --changed=web\o...
+Total time                                                   --  14 ms
+build.dart finished [598 ms]
+
+---
+build.dart --machine --changed=web\chatbox.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 328 ms
+Total time                                                   -- 344 ms
+build.dart finished [909 ms]
+
+---
+build.dart --machine --changed=web\out\streams_client.css --changed=web\out\streams_client.dart --changed=web\o...
+Total time                                                   --  15 ms
+build.dart finished [618 ms]
+
+---
+build.dart --machine --changed=web\chatbox.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 336 ms
+Total time                                                   -- 352 ms
+build.dart finished [938 ms]
+
+---
+build.dart --machine --changed=web\out\streams_client.css --changed=web\out\streams_client.dart --changed=web\o...
+Total time                                                   --  14 ms
+build.dart finished [578 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 328 ms
+Total time                                                   -- 344 ms
+build.dart finished [941 ms]
+
+---
+build.dart --machine --changed=web\out\streams_client.css --changed=web\out\streams_client.dart --changed=web\o...
+Total time                                                   --  14 ms
+build.dart finished [1005 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 336 ms
+Total time                                                   -- 352 ms
+build.dart finished [932 ms]
+
+---
+build.dart --machine --changed=web\out\streams_client.css --changed=web\out\streams_client.dart --changed=web\o...
+Total time                                                   --  14 ms
+build.dart finished [666 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 353 ms
+Total time                                                   -- 369 ms
+build.dart finished [949 ms]
+
+---
+build.dart --machine --changed=web\out\streams_client.css --changed=web\out\streams_client.dart --changed=web\o...
+Total time                                                   --  16 ms
+build.dart finished [651 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 311 ms
+Total time                                                   -- 325 ms
+build.dart finished [860 ms]
+
+---
+build.dart --machine --changed=web\out\streams_client.css --changed=web\out\streams_client.dart --changed=web\o...
+Total time                                                   --  14 ms
+build.dart finished [592 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 369 ms
+Total time                                                   -- 387 ms
+build.dart finished [996 ms]
+
+---
+build.dart --machine --changed=web\out\streams_client.css --changed=web\out\streams_client.dart --changed=web\o...
+Total time                                                   --  13 ms
+build.dart finished [592 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 353 ms
+Total time                                                   -- 369 ms
+build.dart finished [939 ms]
+
+---
+build.dart --machine --changed=web\out\streams_client.css --changed=web\out\streams_client.dart --changed=web\o...
+Total time                                                   --  14 ms
+build.dart finished [617 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 361 ms
+Total time                                                   -- 378 ms
+build.dart finished [935 ms]
+
+---
+build.dart --machine --changed=web\out\streams_client.css --changed=web\out\streams_client.dart --changed=web\o...
+Total time                                                   --  15 ms
+build.dart finished [612 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 359 ms
+Total time                                                   -- 377 ms
+build.dart finished [978 ms]
+
+---
+build.dart --machine --changed=web\out\streams_client.css --changed=web\out\streams_client.dart --changed=web\o...
+Total time                                                   --  14 ms
+build.dart finished [613 ms]
+
+---
+build.dart --machine --changed=web\chatbox.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 354 ms
+Total time                                                   -- 370 ms
+build.dart finished [962 ms]
+
+---
+build.dart --machine --changed=web\out\streams_client.css --changed=web\out\streams_client.dart --changed=web\o...
+Total time                                                   --  13 ms
+build.dart finished [580 ms]
+
+---
+build.dart --machine --changed=web\streams_client.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+[{"method":"warning","params":{"file":"web/streams_client.html","message":"custom element with tag name x-chatbox not found.","line":18,"charStart":373,"charEnd":438}}]
+Total time spent on web/streams_client.html                  -- 338 ms
+Total time                                                   -- 354 ms
+build.dart finished [970 ms]
+
+---
+build.dart --machine --changed=web\out\streams_client.css --changed=web\out\streams_client.dart --changed=web\o...
+Total time                                                   --  14 ms
+build.dart finished [610 ms]
+
+---
+build.dart --machine --changed=web\streams_client.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+[{"method":"warning","params":{"file":"web/streams_client.html","message":"custom element with tag name x-chatbox not found.","line":18,"charStart":373,"charEnd":438}}]
+Total time spent on web/streams_client.html                  -- 312 ms
+Total time                                                   -- 328 ms
+build.dart finished [855 ms]
+
+---
+build.dart --machine --changed=web\out\streams_client.css --changed=web\out\streams_client.dart --changed=web\o...
+Total time                                                   --  14 ms
+build.dart finished [571 ms]
+
+---
+build.dart --machine --changed=web\streams_client.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+[{"method":"error","params":{"file":"web\\chatbox.dart","message":"please provide a class definition for CounterComponent:\n import 'package:web_ui/web_ui.dart';\nimport 'dart:async';\n\nclass ChatBoxComponent extends WebComponent implements StreamConsumer {\n  List<ChatMessage> messages;\n  \n  final _completer = new Completer<List<ChatMessage>>();\n  \n  /**\n   * Returns the total number of messages received in the future\n   */\n  Future<List<ChatMessage>> consume(Stream<ChatMessage> stream) {\n    stream.listen(_onMessage, \n        onError: _onError, \n        onDone: _onDone,\n        unsubscribeOnError: true);\n    \n    return _completer.future;\n  }\n  \n  _onMessage(ChatMessage message) {\n    messages.add(message);\n    print(\"${message.timestamp} -  ${message.from}: ${message.message}\");\n    //TODO: render message on the UI\n  }\n  \n  _onError(error) {\n    //TODO: render error notification\n    print(\"Error: $error\");\n  }\n  \n  _onDone() {\n    _completer.complete(messages);\n  }\n}\n\n\nclass ChatMessage {\n  final String from;\n  final String message;\n  DateTime timestamp;\n \n  ChatMessage(this.from, this.message);\n      \n}","line":5,"charStart":37,"charEnd":108}}]
+[{"method":"warning","params":{"file":"web\\chatbox.html","message":"the <template> of a custom element does not support \"if\" or \"iterate\". However, you can create another template node that is a child node, for example:\n<element name=\"x-chatbox\" constructor=\"CounterComponent\" extends=\"div\"><template><template iterate=\"message in messages\"></template></template></element>","line":5,"charStart":37,"charEnd":108}}]
+Total time spent on web/streams_client.html                  -- 292 ms
+Total time                                                   -- 308 ms
+build.dart finished [877 ms]
+
+---
+build.dart --machine --changed=web\chatbox.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+[{"method":"warning","params":{"file":"web\\chatbox.html","message":"the <template> of a custom element does not support \"if\" or \"iterate\". However, you can create another template node that is a child node, for example:\n<element name=\"x-chatbox\" constructor=\"ChatBoxComponent\" extends=\"div\"><template><template iterate=\"message in messages\"></template></template></element>","line":5,"charStart":37,"charEnd":108}}]
+Total time spent on web/streams_client.html                  -- 351 ms
+Total time                                                   -- 367 ms
+build.dart finished [924 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  15 ms
+build.dart finished [616 ms]
+
+---
+build.dart --machine --changed=web\streams_client.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+[{"method":"warning","params":{"file":"web\\chatbox.html","message":"the <template> of a custom element does not support \"if\" or \"iterate\". However, you can create another template node that is a child node, for example:\n<element name=\"x-chatbox\" constructor=\"ChatBoxComponent\" extends=\"div\"><template><template iterate=\"message in messages\"></template></template></element>","line":5,"charStart":37,"charEnd":108}}]
+Total time spent on web/streams_client.html                  -- 347 ms
+Total time                                                   -- 362 ms
+build.dart finished [910 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [613 ms]
+
+---
+build.dart --machine --changed=web\streams_client.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+[{"method":"warning","params":{"file":"web\\chatbox.html","message":"the <template> of a custom element does not support \"if\" or \"iterate\". However, you can create another template node that is a child node, for example:\n<element name=\"x-chatbox\" constructor=\"ChatBoxComponent\" extends=\"div\"><template><template iterate=\"message in messages\"></template></template></element>","line":5,"charStart":37,"charEnd":108}}]
+Total time spent on web/streams_client.html                  -- 407 ms
+Total time                                                   -- 422 ms
+build.dart finished [940 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  15 ms
+build.dart finished [633 ms]
+
+---
+build.dart --machine --changed=web\streams_client.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+[{"method":"warning","params":{"file":"web\\chatbox.html","message":"the <template> of a custom element does not support \"if\" or \"iterate\". However, you can create another template node that is a child node, for example:\n<element name=\"x-chatbox\" constructor=\"ChatBoxComponent\" extends=\"div\"><template><template iterate=\"message in messages\"></template></template></element>","line":5,"charStart":37,"charEnd":108}}]
+Total time spent on web/streams_client.html                  -- 338 ms
+Total time                                                   -- 352 ms
+build.dart finished [877 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [569 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+[{"method":"warning","params":{"file":"web\\chatbox.html","message":"the <template> of a custom element does not support \"if\" or \"iterate\". However, you can create another template node that is a child node, for example:\n<element name=\"x-chatbox\" constructor=\"ChatBoxComponent\" extends=\"div\"><template><template iterate=\"message in messages\"></template></template></element>","line":5,"charStart":37,"charEnd":108}}]
+Total time spent on web/streams_client.html                  -- 360 ms
+Total time                                                   -- 377 ms
+build.dart finished [966 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  16 ms
+build.dart finished [673 ms]
+
+---
+build.dart --machine --changed=web\streams_client.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+[{"method":"warning","params":{"file":"web\\chatbox.html","message":"the <template> of a custom element does not support \"if\" or \"iterate\". However, you can create another template node that is a child node, for example:\n<element name=\"x-chatbox\" constructor=\"ChatBoxComponent\" extends=\"div\"><template><template iterate=\"message in messages\"></template></template></element>","line":5,"charStart":37,"charEnd":108}}]
+Total time spent on web/streams_client.html                  -- 383 ms
+Total time                                                   -- 399 ms
+build.dart finished [1034 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [620 ms]
+
+---
+build.dart --machine --changed=web\streams_client.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+[{"method":"warning","params":{"file":"web\\chatbox.html","message":"the <template> of a custom element does not support \"if\" or \"iterate\". However, you can create another template node that is a child node, for example:\n<element name=\"x-chatbox\" constructor=\"ChatBoxComponent\" extends=\"div\"><template><template iterate=\"message in messages\"></template></template></element>","line":5,"charStart":37,"charEnd":108}}]
+Total time spent on web/streams_client.html                  -- 347 ms
+Total time                                                   -- 361 ms
+build.dart finished [887 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [577 ms]
+
+---
+build.dart --machine --changed=web\streams_client.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+[{"method":"warning","params":{"file":"web\\chatbox.html","message":"the <template> of a custom element does not support \"if\" or \"iterate\". However, you can create another template node that is a child node, for example:\n<element name=\"x-chatbox\" constructor=\"ChatBoxComponent\" extends=\"div\"><template><template iterate=\"message in messages\"></template></template></element>","line":5,"charStart":37,"charEnd":108}}]
+Total time spent on web/streams_client.html                  -- 346 ms
+Total time                                                   -- 362 ms
+build.dart finished [907 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [596 ms]
+
+---
+build.dart --machine --changed=web\streams_client.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+[{"method":"warning","params":{"file":"web\\chatbox.html","message":"the <template> of a custom element does not support \"if\" or \"iterate\". However, you can create another template node that is a child node, for example:\n<element name=\"x-chatbox\" constructor=\"ChatBoxComponent\" extends=\"div\"><template><template iterate=\"message in messages\"></template></template></element>","line":5,"charStart":37,"charEnd":108}}]
+Total time spent on web/streams_client.html                  -- 346 ms
+Total time                                                   -- 363 ms
+build.dart finished [903 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [609 ms]
+
+---
+build.dart --machine --changed=web\streams_client.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+[{"method":"warning","params":{"file":"web\\chatbox.html","message":"the <template> of a custom element does not support \"if\" or \"iterate\". However, you can create another template node that is a child node, for example:\n<element name=\"x-chatbox\" constructor=\"ChatBoxComponent\" extends=\"div\"><template><template iterate=\"message in messages\"></template></template></element>","line":5,"charStart":37,"charEnd":108}}]
+Total time spent on web/streams_client.html                  -- 357 ms
+Total time                                                   -- 374 ms
+build.dart finished [937 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  16 ms
+build.dart finished [570 ms]
+
+---
+build.dart --machine --changed=web\streams_client.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+[{"method":"warning","params":{"file":"web\\chatbox.html","message":"the <template> of a custom element does not support \"if\" or \"iterate\". However, you can create another template node that is a child node, for example:\n<element name=\"x-chatbox\" constructor=\"ChatBoxComponent\" extends=\"div\"><template><template iterate=\"message in messages\"></template></template></element>","line":5,"charStart":37,"charEnd":108}}]
+Total time spent on web/streams_client.html                  -- 375 ms
+Total time                                                   -- 391 ms
+build.dart finished [980 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [631 ms]
+
+---
+build.dart --machine --removed=web\out\chatbox.dart --removed=web\out\chatbox.dart.map --removed=web\out\stream...
+Total time                                                   --  13 ms
+build.dart finished [561 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+Total time                                                   --  12 ms
+build.dart finished [622 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [651 ms]
+
+---
+build.dart --machine --changed=web\chatbox.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+[{"method":"warning","params":{"file":"web\\chatbox.html","message":"the <template> of a custom element does not support \"if\" or \"iterate\". However, you can create another template node that is a child node, for example:\n<element name=\"x-chatbox\" constructor=\"ChatBoxComponent\"><template><template iterate=\"message in messages\"></template></template></element>","line":5,"charStart":37,"charEnd":95}}]
+Total time spent on web/streams_client.html                  -- 380 ms
+Total time                                                   -- 396 ms
+build.dart finished [973 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [611 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+[{"method":"warning","params":{"file":"web\\chatbox.html","message":"the <template> of a custom element does not support \"if\" or \"iterate\". However, you can create another template node that is a child node, for example:\n<element name=\"x-chatbox\" constructor=\"ChatBoxComponent\"><template><template iterate=\"message in messages\"></template></template></element>","line":5,"charStart":37,"charEnd":95}}]
+Total time spent on web/streams_client.html                  -- 353 ms
+Total time                                                   -- 369 ms
+build.dart finished [941 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  17 ms
+build.dart finished [604 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+[{"method":"warning","params":{"file":"web\\chatbox.html","message":"the <template> of a custom element does not support \"if\" or \"iterate\". However, you can create another template node that is a child node, for example:\n<element name=\"x-chatbox\" constructor=\"ChatBoxComponent\"><template><template iterate=\"message in messages\"></template></template></element>","line":5,"charStart":37,"charEnd":95}}]
+Total time spent on web/streams_client.html                  -- 384 ms
+Total time                                                   -- 401 ms
+build.dart finished [1134 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [587 ms]
+
+---
+build.dart --machine --changed=web\streams_client.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+[{"method":"warning","params":{"file":"web\\chatbox.html","message":"the <template> of a custom element does not support \"if\" or \"iterate\". However, you can create another template node that is a child node, for example:\n<element name=\"x-chatbox\" constructor=\"ChatBoxComponent\"><template><template iterate=\"message in messages\"></template></template></element>","line":5,"charStart":37,"charEnd":95}}]
+Total time spent on web/streams_client.html                  -- 354 ms
+Total time                                                   -- 369 ms
+build.dart finished [950 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  13 ms
+build.dart finished [603 ms]
+
+---
+build.dart --machine --removed=web\out\chatbox.dart --removed=web\out\chatbox.dart.map --removed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [580 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [581 ms]
+
+---
+build.dart --machine --changed=web\chatbox.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+[{"method":"warning","params":{"file":"web\\chatbox.html","message":"template attribute is required when using if, instantiate, or iterate attributes.","line":7,"charStart":123,"charEnd":158}}]
+Total time spent on web/streams_client.html                  -- 348 ms
+Total time                                                   -- 365 ms
+build.dart finished [931 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [613 ms]
+
+---
+build.dart --machine --changed=web\chatbox.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 365 ms
+Total time                                                   -- 381 ms
+build.dart finished [1000 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  13 ms
+build.dart finished [609 ms]
+
+---
+build.dart --machine --changed=web\chatbox.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 373 ms
+Total time                                                   -- 390 ms
+build.dart finished [978 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  13 ms
+build.dart finished [567 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 353 ms
+Total time                                                   -- 369 ms
+build.dart finished [961 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [589 ms]
+
+---
+build.dart --machine --changed=web\chatbox.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 345 ms
+Total time                                                   -- 362 ms
+build.dart finished [957 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [588 ms]
+
+---
+build.dart --machine --changed=web\chatbox.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 364 ms
+Total time                                                   -- 380 ms
+build.dart finished [983 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [579 ms]
+
+---
+build.dart --machine --changed=web\streams_client.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 342 ms
+Total time                                                   -- 356 ms
+build.dart finished [883 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [574 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 381 ms
+Total time                                                   -- 397 ms
+build.dart finished [993 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  15 ms
+build.dart finished [624 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 352 ms
+Total time                                                   -- 367 ms
+build.dart finished [927 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  15 ms
+build.dart finished [593 ms]
+
+---
+build.dart --machine --changed=web\chatbox.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 348 ms
+Total time                                                   -- 364 ms
+build.dart finished [946 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [610 ms]
+
+---
+build.dart --machine --changed=web\chatbox.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 396 ms
+Total time                                                   -- 419 ms
+build.dart finished [1039 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  13 ms
+build.dart finished [574 ms]
+
+---
+build.dart --machine --changed=web\chatbox.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 368 ms
+Total time                                                   -- 384 ms
+build.dart finished [1028 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [584 ms]
+
+---
+build.dart --machine --changed=web\chatbox.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 372 ms
+Total time                                                   -- 388 ms
+build.dart finished [987 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  21 ms
+build.dart finished [600 ms]
+
+---
+build.dart --machine --changed=web\streams_client.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 357 ms
+Total time                                                   -- 374 ms
+build.dart finished [982 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [595 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 355 ms
+Total time                                                   -- 370 ms
+build.dart finished [941 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  13 ms
+build.dart finished [610 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 381 ms
+Total time                                                   -- 397 ms
+build.dart finished [987 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [665 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 354 ms
+Total time                                                   -- 370 ms
+build.dart finished [927 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [632 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 377 ms
+Total time                                                   -- 395 ms
+build.dart finished [989 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  15 ms
+build.dart finished [596 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 352 ms
+Total time                                                   -- 367 ms
+build.dart finished [927 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  13 ms
+build.dart finished [613 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 354 ms
+Total time                                                   -- 370 ms
+build.dart finished [930 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  16 ms
+build.dart finished [583 ms]
+
+---
+build.dart --machine --changed=web\chatbox.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 352 ms
+Total time                                                   -- 370 ms
+build.dart finished [955 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [613 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 357 ms
+Total time                                                   -- 373 ms
+build.dart finished [926 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  30 ms
+build.dart finished [635 ms]
+
+---
+build.dart --machine --changed=web\chatbox.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 374 ms
+Total time                                                   -- 390 ms
+build.dart finished [975 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  13 ms
+build.dart finished [601 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 358 ms
+Total time                                                   -- 374 ms
+build.dart finished [954 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  15 ms
+build.dart finished [622 ms]
+
