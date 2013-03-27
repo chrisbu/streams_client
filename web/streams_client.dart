@@ -10,14 +10,18 @@ import 'dart:async';
 void main() {
   // Enable this to use Shadow DOM in the browser.
   //useShadowDom = true;  
-  var stream = getChatStream();
   
-  Timer.run(() {
-    var chatbox = query("#chatbox");
-    stream.pipe(query("#chatbox").xtag);
+  query("#start").onClick.listen((_) {
+    (query("#start") as ButtonElement).disabled = true;
+    var stream = getChatStream();
+    ChatBoxComponent chatbox = query("#chatbox").xtag;
+    chatbox.reset();
+
+    stream.pipe(chatbox).then((_) {
+      (query("#start") as ButtonElement).disabled = false;
+    });
   });
-      
-      
+  
   
 }
 
@@ -51,6 +55,5 @@ class ChatMessage {
   final String message;
   DateTime timestamp;
  
-  ChatMessage(this.from, this.message);
-      
+  ChatMessage(this.from, this.message);      
 }

@@ -86,7 +86,7 @@ class ChatBoxComponent extends WebComponent implements StreamConsumer {
   /** Original code from the component. */
   
   List messages = new List();
-  final completer = new Completer();
+  var completer = new Completer();
   
   /**
    * Returns the total number of messages received in the future
@@ -115,6 +115,12 @@ class ChatBoxComponent extends WebComponent implements StreamConsumer {
   _onDone() {
     completer.complete(messages);
     watchers.dispatch();
+  }
+  
+  void reset() {
+    messages = new List();
+    completer = new Completer();
+    watchers.dispatch;
   }
 }
 

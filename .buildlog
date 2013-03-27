@@ -698,3 +698,311 @@ build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.da
 Total time                                                   --  15 ms
 build.dart finished [622 ms]
 
+---
+build.dart --machine --changed=web\streams_client.dart.js --changed=web\streams_client.dart.js.deps --changed=w...
+Total time                                                   --  12 ms
+build.dart finished [553 ms]
+
+---
+build.dart --machine --changed=web\out\streams_client.html_bootstrap.dart.js --changed=web\out\streams_client.h...
+Total time                                                   --  14 ms
+build.dart finished [540 ms]
+
+---
+build.dart --machine --changed=web\streams_client.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 339 ms
+Total time                                                   -- 354 ms
+build.dart finished [915 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  13 ms
+build.dart finished [586 ms]
+
+---
+build.dart --machine --changed=web\streams_client.dart --changed=web\streams_client.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 355 ms
+Total time                                                   -- 371 ms
+build.dart finished [957 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 355 ms
+Total time                                                   -- 370 ms
+build.dart finished [974 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [611 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+Total time                                                   --  17 ms
+build.dart finished [625 ms]
+
+---
+build.dart --machine --full
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 341 ms
+Total time                                                   -- 355 ms
+build.dart finished [903 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Unable to open file: C:/Work/dart/projects/streams_client/streams_client/packages/web_ui/src/html5_setters.g.dart'package:web_ui/src/emitters.dart': Error: line 20 pos 1: library handler failed
+import 'html5_setters.g.dart';
+^
+'package:web_ui/src/compiler.dart': Error: line 21 pos 1: library handler failed
+import 'emitters.dart';
+^
+'package:web_ui/dwc.dart': Error: line 13 pos 1: library handler failed
+import 'src/compiler.dart';
+^
+'package:web_ui/component_build.dart': Error: line 26 pos 1: library handler failed
+import 'dwc.dart' as dwc;
+^
+'file:///C:/Work/dart/projects/streams_client/streams_client/build.dart': Error: line 2 pos 1: library handler failed
+import 'package:web_ui/component_build.dart';
+^
+build.dart finished [357 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+Total time                                                   --  14 ms
+build.dart finished [633 ms]
+
+---
+build.dart --machine --changed=web\streams_client.css
+Total time                                                   --  12 ms
+build.dart finished [535 ms]
+
+---
+build.dart --machine --changed=web\streams_client.css
+Total time                                                   --  12 ms
+build.dart finished [520 ms]
+
+---
+build.dart --machine --changed=web\streams_client.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+[{"method":"warning","params":{"file":"web/streams_client.html","message":"Trailing solidus not allowed on element button","line":13,"charStart":258,"charEnd":292}}]
+[{"method":"warning","params":{"file":"web/streams_client.html","message":"Unexpected end tag (button). Missing end tag (body).","line":20,"charStart":517,"charEnd":524}}]
+Total time spent on web/streams_client.html                  -- 351 ms
+Total time                                                   -- 367 ms
+build.dart finished [924 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  15 ms
+build.dart finished [621 ms]
+
+---
+build.dart --machine --changed=web\streams_client.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+[{"method":"warning","params":{"file":"web/streams_client.html","message":"Invalid character in attribute name","line":13,"charStart":290,"charEnd":305}}]
+[{"method":"warning","params":{"file":"web/streams_client.html","message":"End tag contains unexpected attributes.","line":13,"charStart":290,"charEnd":334}}]
+[{"method":"warning","params":{"file":"web/streams_client.html","message":"Unexpected end tag (button<). Ignored.","line":13,"charStart":290,"charEnd":334}}]
+[{"method":"warning","params":{"file":"web/streams_client.html","message":"End tag (div) seen too early. Expected other end tag.","line":16,"charStart":385,"charEnd":391}}]
+[{"method":"warning","params":{"file":"web/streams_client.html","message":"Unexpected end tag (button). Missing end tag (body).","line":20,"charStart":524,"charEnd":531}}]
+Total time spent on web/streams_client.html                  -- 381 ms
+Total time                                                   -- 397 ms
+build.dart finished [1016 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [572 ms]
+
+---
+build.dart --machine --changed=web\streams_client.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 363 ms
+Total time                                                   -- 380 ms
+build.dart finished [983 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [627 ms]
+
+---
+build.dart --machine --changed=web\streams_client.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 369 ms
+Total time                                                   -- 385 ms
+build.dart finished [974 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  13 ms
+build.dart finished [607 ms]
+
+---
+build.dart --machine --removed=web\xclickcounter.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 353 ms
+Total time                                                   -- 369 ms
+build.dart finished [949 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  15 ms
+build.dart finished [606 ms]
+
+---
+build.dart --machine --removed=web\xclickcounter.html
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 367 ms
+Total time                                                   -- 384 ms
+build.dart finished [962 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  13 ms
+build.dart finished [570 ms]
+
+---
+build.dart --machine --changed=web\streams_client.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 335 ms
+Total time                                                   -- 350 ms
+build.dart finished [891 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [567 ms]
+
+---
+build.dart --machine --changed=web\streams_client.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 392 ms
+Total time                                                   -- 408 ms
+build.dart finished [994 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  13 ms
+build.dart finished [588 ms]
+
+---
+build.dart --machine --changed=web\streams_client.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 334 ms
+Total time                                                   -- 348 ms
+build.dart finished [882 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [611 ms]
+
+---
+build.dart --machine --changed=web\streams_client.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 344 ms
+Total time                                                   -- 359 ms
+build.dart finished [896 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [674 ms]
+
+---
+build.dart --machine --changed=web\streams_client.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 365 ms
+Total time                                                   -- 381 ms
+build.dart finished [919 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [598 ms]
+
+---
+build.dart --machine --changed=web\streams_client.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 337 ms
+Total time                                                   -- 351 ms
+build.dart finished [880 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  13 ms
+build.dart finished [571 ms]
+
+---
+build.dart --machine --changed=web\streams_client.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 336 ms
+Total time                                                   -- 351 ms
+build.dart finished [878 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [581 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 375 ms
+Total time                                                   -- 392 ms
+build.dart finished [1071 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  13 ms
+build.dart finished [576 ms]
+
+---
+build.dart --machine --changed=web\streams_client.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 344 ms
+Total time                                                   -- 359 ms
+build.dart finished [889 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  15 ms
+build.dart finished [628 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 371 ms
+Total time                                                   -- 387 ms
+build.dart finished [957 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  14 ms
+build.dart finished [586 ms]
+
+---
+build.dart --machine --changed=web\chatbox.dart
+[{"method":"mapping","params":{"from":"web/streams_client.html","to":"web\out\streams_client.html"}}]
+Total time spent on web/streams_client.html                  -- 358 ms
+Total time                                                   -- 374 ms
+build.dart finished [933 ms]
+
+---
+build.dart --machine --changed=web\out\chatbox.dart --changed=web\out\chatbox.dart.map --changed=web\out\stream...
+Total time                                                   --  15 ms
+build.dart finished [614 ms]
+
+---
+build.dart --machine --changed=web\out\streams_client.html_bootstrap.dart.js --changed=web\out\streams_client.h...
+Total time                                                   --  13 ms
+build.dart finished [549 ms]
+
+---
+build.dart --machine --changed=web\out\streams_client.html
+Total time                                                   --  14 ms
+build.dart finished [579 ms]
+
